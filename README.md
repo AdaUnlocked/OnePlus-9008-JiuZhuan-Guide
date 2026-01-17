@@ -35,7 +35,8 @@
 ## 第二步：准备工作
 
 准备好数据线（建议拿原装的数据线）。先下载好深刷散包（是一种特殊的救砖包，和普通线刷包不同）（本文演示的是一台一加平板 Pro）。
-请前往下载自己型号的刷机包：[点击查看链接](https://www.123865.com/s/XKfLVv-Q9U0?notoken=1)
+请前往下载自己型号的刷机包：[点击查看链接](https://www.123865.com/s/XKfLVv-Q9U0?notoken=1) 
+如果你的手机是真我，可以在这里找一下自己的机型链接，比较乱，但挺全的：https://drive.google.com/file/d/1-7WOAxdo1IP_-l4YT0V_4OuJYWXjsMXZ/view?usp=drive_link
 
 ![下载刷机包](2.png)
 
